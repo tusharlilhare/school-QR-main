@@ -64,7 +64,7 @@ function generateIDCards(students) {
     </div>
     <div class="chairman-title">Chairman</div>
 </div>
-                    <h1 class="name"> <span>Student Name: </span>${student.name.toUpperCase()}</h1>
+                    <h1 class="name"> <span> </span>${student.name.toUpperCase()}</h1>
                     <div class="info-list">
                         <div class="info-item"><span>Class: </span> ${ student.class}</div>
                         <div class="info-item"><span>Father's Name: </span> ${student.father || 'N/A'}</div>
@@ -85,12 +85,12 @@ function generateIDCards(students) {
         
                        <img src="${student.school.building}" alt="School Logo" class="building">
             <div class="back-info">
-                <p>${student.school.address}</p>     
-              
+                  
+               <p>${student.school.addres}</p>  
                 <p>Dise Code: ${student.school.codes.udise}</p>
             </div>
             <div class="back-contact">
-                <p>Phone: ${student.school.contact.phone}</p>
+
                 <p>Email: ${student.school.contact.email}</p>
               
             </div>
