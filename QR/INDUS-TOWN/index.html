@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Base styles */
+        :root {
+            font-size: 16px; /* Base font size for rem units */
+            --primary-color: #333; /* Dark gray for text */
+            --link-color: #0066cc; /* Blue for links */
+            --link-hover: #004499; /* Darker blue for hover */
+            --spacing-unit: 1rem; /* Base spacing unit */
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--primary-color);
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: var(--spacing-unit);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        
+        h1 {
+            font-size: clamp(1.5rem, 5vw, 2.5rem); /* Responsive font size */
+            text-align: center;
+            margin-bottom: calc(var(--spacing-unit) * 1.5);
+            color: #0f7fef;
+        }
+        
+        p {
+            font-size: 1.1rem;
+            text-align: center;
+            margin-bottom: calc(var(--spacing-unit) * 2);
+            color: #e40d0d;
+        }
+        
+        /* Link container */
+        .links-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: var(--spacing-unit);
+            justify-content: center;
+        }
+        
+        /* Link styles */
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: calc(var(--spacing-unit) * 0.75) var(--spacing-unit);
+            background-color: #f8f9fa;
+            color: var(--link-color);
+            text-decoration: none;
+            border-radius: 0.5rem;
+            font-weight: bold;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 1px solid #dee2e6;
+            min-height: 3rem;
+        }
+        
+        a:hover {
+            background-color: #e9ecef;
+            color: var(--link-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            :root {
+                font-size: 14px; /* Slightly smaller base size on mobile */
+            }
+            
+            .links-container {
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            }
+        }
+        
+        @media (max-width: 400px) {
+            .links-container {
+                grid-template-columns: 1fr; /* Single column on very small screens */
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>INDUS-TOWN</h1>
+    <p>Welcome to the INDUS-TOWN QR code directory.</p>
+    
+    <div class="links-container">
+        <a href="./Nursery/index.html">Nursery</a>
+        <a href="./KG1/index.html">KG1</a>
+        <a href="./KG2/index.html">KG2</a>
+        <a href="./1st/index.html">1st</a>
+        <a href="./2nd/index.html">2nd</a>
+        <a href="./3rd/index.html">3rd</a>
+        <a href="./4th/index.html">4th</a>
+        <a href="./5th/index.html">5th</a>
+        <a href="./6th/index.html">6th</a>
+        <a href="./7th/index.html">7th</a>
+        <a href="./8th/index.html">8th</a>
+    </div>
+</body>
+</html>
