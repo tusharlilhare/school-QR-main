@@ -37,7 +37,10 @@ function generateIDCards(students) {
     <h1 class="school-name">${student.school.name}</h1>
     <div class="school-details">
         <p class="school-address">${student.school.address}</p>
+                <p class="school-address">${student.school.addre}</p>
+          <p class="school-number >Phone: ${student.school.contact.phone }</p>
         <p class="school-session">
+       
             <span class="session-label">Session:</span>
             <span class="session-value">${student.school.session}</span>
         </p>
@@ -64,14 +67,14 @@ function generateIDCards(students) {
     </div>
     <div class="chairman-title">Chairman</div>
 </div>
-                    <h1 class="name"> <span>Student Name: </span>${student.name.toUpperCase()}</h1>
-                    <div class="info-list">
-                        <div class="info-item"><span>Class: </span> ${ student.class}</div>
-                        <div class="info-item"><span>Father's Name: </span> ${student.father || 'N/A'}</div>
-                        <div class="info-item"><span>Contact: </span> ${student.contact}</div>
-                        <div class="info-item"><span>DOB: </span> ${student.dob}</div>
-                        <div class="info-item address"><span>Address: </span> ${student.address.replace(/,/g, ',')}</div>
-                    </div>
+                    <h1 class="name"> <span> </span>${student.name.toUpperCase()}</h1>
+                  <div class="info-list">
+    <div class="info-item"><span>Class: </span> ${student.class}&nbsp;</div>
+    <div class="info-item"><span>Father's Name: </span> ${student.father || 'N/A'}&nbsp;</div>
+    <div class="Contact"><span>Contact: </span> ${student.contact}&nbsp;</div>
+    <div class="info-item"><span>DOB: </span> ${student.dob}&nbsp;</div>
+    <div class="info-item address"><span>Add:</span> ${student.address.replace(/,/g, ',')}&nbsp;</div>
+</div>
                 </div>
             </section>
         `;
@@ -82,15 +85,16 @@ function generateIDCards(students) {
         backCard.innerHTML = `
             <img src="${student.school.logo}" alt="School Logo" class="back-logo">
             <h2 class="back-title">${student.school.name}</h2>
+                            <p>Dise Code: ${student.school.codes.udise}</p>
         
                        <img src="${student.school.building}" alt="School Logo" class="building">
             <div class="back-info">
-                <p>${student.school.address}</p>     
+                <p>${student.school.addres}</p>     
               
-                <p>Dise Code: ${student.school.codes.udise}</p>
+
             </div>
             <div class="back-contact">
-                <p>Phone: ${student.school.contact.phone}</p>
+            
                 <p>Email: ${student.school.contact.email}</p>
               
             </div>
@@ -247,3 +251,41 @@ function checkUrlForStudentData(students) {
         }
     }
 }
+
+// ✅ Download All ID Cards as PDF (same as shown on webpage, same size, multiple cards per page)
+document.getElementById('downloadAll')?.addEventListener('click', async () => {
+    const { jsPDF } = window.jspdf;
+    const wrappers = document.querySelectorAll('.id-card-wrapper');
+
+    if (wrappers.length === 0) {
+        alert("No ID cards found to download.");
+        return;
+    }
+
+    const pdf = new jsPDF({
+        orientation: "portrait",
+        unit: "px",      // use pixel for exact same size
+        format: "a4"
+    });
+
+    for (let i = 0; i < wrappers.length; i++) {
+        const wrapper = wrappers[i];
+
+        // Convert wrapper (front+back together) to canvas
+        const canvas = await html2canvas(wrapper, { scale: 2 });
+        const imgData = canvas.toDataURL("image/png");
+
+        // Get wrapper size
+        const wrapperWidth = canvas.width;
+        const wrapperHeight = canvas.height;
+
+        // Add image at natural size (same as on screen)
+        pdf.addImage(imgData, "PNG", 20, 20, wrapperWidth / 2, wrapperHeight / 2);
+
+        if (i < wrappers.length - 1) {
+            pdf.addPage();
+        }
+    }
+
+    pdf.save("Student_ID_Cards.pdf");
+});

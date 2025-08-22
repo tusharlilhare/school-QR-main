@@ -11,7 +11,10 @@
       "photo": "./5th_01_Aditya Sharma.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -36,7 +39,10 @@
       "photo": "./5th_02_Aryan Maliya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -61,7 +67,10 @@
       "photo": "./5th_03_Dolly Raghuvanshi.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -86,7 +95,10 @@
       "photo": "./5th_04_Ishika Shilpi.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -105,13 +117,16 @@
       "name": "KHUSHI PAL",
       "father": "INDAL PAL",
       "class": "5-6",
-      "dob": "01-07-2014",
+      "dob": "07-01-2014",
       "contact": "6263793375",
       "address": "H.NO-6/12, ANUJA VILLAGE",
       "photo": "./5th_05_Khushi Pal.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -130,13 +145,16 @@
       "name": "PRANJAL RAJPUT",
       "father": "JAYPAL SINGH RAJPUT",
       "class": "5-6",
-      "dob": "11-06-2014",
+      "dob": "06-11-2014",
       "contact": "9752284175",
       "address": "H.NO-37, HARIGANGA",
       "photo": "./5th_06_Pranjal Rajput.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -161,7 +179,10 @@
       "photo": "./5th_07_Parthivi Dhakad.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -186,7 +207,10 @@
       "photo": "./5th_08_Pooja Thakur.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -211,7 +235,10 @@
       "photo": "./5th_09_Purvi Meena.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -230,13 +257,16 @@
       "name": "PARTHIV PATEL",
       "father": "NARENDRA PATEL",
       "class": "5-6",
-      "dob": "07-01-2014",
+      "dob": "01-07-2014",
       "contact": "6261598600",
       "address": "H.NO-, INDUS TOWN",
       "photo": "./5th_10_Parthiv Patel.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -261,7 +291,10 @@
       "photo": "./5th_11_Rishika Meena.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -286,7 +319,10 @@
       "photo": "./5th_12_salamat Khan.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -305,13 +341,16 @@
       "name": "SHREYA OJHA",
       "father": "LATE.SANTOSH OJHA",
       "class": "5-6",
-      "dob": "09-04-2015",
+      "dob": "04-09-2015",
       "contact": "8827270265",
       "address": "H.NO-FLAT-301, CHINAR DREAM CT",
       "photo": "./5th_13_Shreya Ojha.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -336,7 +375,10 @@
       "photo": "./5th_14_Vedika sen.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -361,7 +403,10 @@
       "photo": "./5th_15_Veer Tomar.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -386,7 +431,10 @@
       "photo": "./5th_16_Sourya Solanki.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -411,7 +459,10 @@
       "photo": "./5th_17_Anshu keer.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -436,7 +487,10 @@
       "photo": "./5th_18_Ayush Chourasiya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -461,7 +515,10 @@
       "photo": "./5th_19_Yogesh Ahirwar.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -486,7 +543,10 @@
       "photo": "./5th_20_Pratyush Sahu.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -511,7 +571,10 @@
       "photo": "./5th_21_Ranjeet Udde.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -536,7 +599,10 @@
       "photo": "./5th_22_Naksh Gurjar.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
@@ -561,7 +627,10 @@
       "photo": "./5th_23_Manu Dhakad.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+         "address": "Indus Town, Bhopal, M.P,462026,",
+                "addre": "   ph-9039677482",
+                "addres": "Indus Town, Bhopal, M.P,462026,",
+       
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",

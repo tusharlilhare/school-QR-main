@@ -2,8 +2,8 @@
   "students": [
     {
       "id": "1",
-      "name": "ARNAV CHOUKSEY",
-      "father": "MADHUSUDAN CHOUKSEY",
+      "name": "Arnav Chouksey",
+      "father": "Madhusudan",
       "class": "2-3",
       "dob": "23/6/2018",
       "contact": "6264315692",
@@ -11,14 +11,13 @@
       "photo": "./2nd_01_Arnav coukesy.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1166", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -27,8 +26,8 @@
     },
     {
       "id": "2",
-      "name": "ARIHANT GOSWAMI",
-      "father": "PRASHANT GOSWAMI",
+      "name": "Arihant Goswami",
+      "father": "Prashant",
       "class": "2-3",
       "dob": "20/12/2017",
       "contact": "8770843075",
@@ -36,14 +35,13 @@
       "photo": "./2nd_02_Arihant Goswami.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/953", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -52,8 +50,8 @@
     },
     {
       "id": "3",
-      "name": "ARYAN RAGHUWANSHI",
-      "father": "SHYAMBABU RAGHUWANSHI",
+      "name": "Aryan Raghuwanshi",
+      "father": "Shyambabu",
       "class": "2-3",
       "dob": "08-06-2018",
       "contact": "9630576659",
@@ -61,14 +59,13 @@
       "photo": "./2nd_3_Aryan Raghuwanshi.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1093", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -77,8 +74,8 @@
     },
     {
       "id": "4",
-      "name": "BARUN DHAKAD",
-      "father": "SOVRAN SINGH DHAKAD",
+      "name": "Barun Dhakad",
+      "father": "Sovran Singh",
       "class": "2-3",
       "dob": "24/2/2018",
       "contact": "9806631639",
@@ -86,14 +83,13 @@
       "photo": "./2nd_04_Barun Dhakad.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/941", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -102,23 +98,22 @@
     },
     {
       "id": "5",
-      "name": "CHANCHAL YADAV",
-      "father": "JITENDRA YADAV",
+      "name": "Chanchal Yadav",
+      "father": "Jitendra",
       "class": "2-3",
-      "dob": "07-01-2017",
+      "dob": "01-07-2017",
       "contact": "8889994845",
       "address": "H.NO.-78/2, HARIGANGA",
       "photo": "./2nd_05_Chanchal yadav.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1004", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -127,8 +122,8 @@
     },
     {
       "id": "6",
-      "name": "DHAIRYA PAWAR",
-      "father": "SANJU PAWAR",
+      "name": "Dhairya Pawar",
+      "father": "Sanju",
       "class": "2-3",
       "dob": "25/8/2018",
       "contact": "7880242705",
@@ -136,14 +131,13 @@
       "photo": "./2nd_06_Dhairya pawar.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1001", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -152,8 +146,8 @@
     },
     {
       "id": "7",
-      "name": "DEVANSH MALVIYA",
-      "father": "DURGADAS MALVIYA",
+      "name": "Devansh Malviya",
+      "father": "Durgadas",
       "class": "2-3",
       "dob": "29/1/2018",
       "contact": "9644997965",
@@ -161,14 +155,13 @@
       "photo": "./2nd_07_Devansh malviya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/928", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -177,8 +170,8 @@
     },
     {
       "id": "8",
-      "name": "DEVANSH RAI",
-      "father": "SANDEEP RAI",
+      "name": "Dev Rai",
+      "father": "Sandeep",
       "class": "2-3",
       "dob": "23/8/2017",
       "contact": "7723877616",
@@ -186,14 +179,13 @@
       "photo": "./2nd_08_Dev rai.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1005", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -202,8 +194,8 @@
     },
     {
       "id": "9",
-      "name": "HARSH CHOUHAN",
-      "father": "SUNIL KUMAR CHOUHAN",
+      "name": "Harsh Chouhan",
+      "father": "Sunil Kumar",
       "class": "2-3",
       "dob": "14/4/2016",
       "contact": "9926974177",
@@ -211,14 +203,13 @@
       "photo": "./2nd_09_Harsh Chouhan.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1265", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -227,8 +218,8 @@
     },
     {
       "id": "10",
-      "name": "HARSHIT VISHWAKARMA",
-      "father": "MUKESH VISHWAKARMA",
+      "name": "Harshit Vishwakarma",
+      "father": "Mukesh",
       "class": "2-3",
       "dob": "18/8/2017",
       "contact": "8225808147",
@@ -236,14 +227,13 @@
       "photo": "./2nd_10_Harshit Vishwakarma.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/912", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -252,8 +242,8 @@
     },
     {
       "id": "11",
-      "name": "JIYA TIWARI",
-      "father": "VIYAJSHANKAR TIWARI",
+      "name": "Jiya Tiwari",
+      "father": "Viyajshankar",
       "class": "2-3",
       "dob": "30/6/2018",
       "contact": "8889316141",
@@ -261,14 +251,13 @@
       "photo": "./2nd_11_Jiya Tiwari.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1091", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -277,8 +266,8 @@
     },
     {
       "id": "12",
-      "name": "JAY GOSWAMI",
-      "father": "DIPAK GOSWAMI",
+      "name": "Jay Goswami",
+      "father": "Dipak",
       "class": "2-3",
       "dob": "31/12/2016",
       "contact": "9009087076",
@@ -286,14 +275,13 @@
       "photo": "./2nd_12_Jay Goswami.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1343", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -302,8 +290,8 @@
     },
     {
       "id": "13",
-      "name": "KRISH OAD",
-      "father": "JUGENDRA OAD",
+      "name": "Krish Oad",
+      "father": "Jugendra",
       "class": "2-3",
       "dob": "18/3/2017",
       "contact": "8982764010",
@@ -311,14 +299,13 @@
       "photo": "./2nd_13_Irish oad.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1233", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -327,8 +314,8 @@
     },
     {
       "id": "14",
-      "name": "KUSHAGRA MALVIYA",
-      "father": "LOKESH MALVIYA",
+      "name": "Kushagra Malviya",
+      "father": "Lokesh",
       "class": "2-3",
       "dob": "23/3/2017",
       "contact": "7067680580",
@@ -336,14 +323,13 @@
       "photo": "./2nd_14_Kushagra malviya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1140", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -352,23 +338,22 @@
     },
     {
       "id": "15",
-      "name": "LAKSHYA KEER",
-      "father": "UMESH KEER",
+      "name": "Lakshya Keer",
+      "father": "Umesh",
       "class": "2-3",
-      "dob": "11-03-2017",
+      "dob": "03-11-2017",
       "contact": "7771068525",
       "address": "H.NO.-77, HARIGANGA",
       "photo": "./2nd_15_Lakshya Keer.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1046", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -377,23 +362,22 @@
     },
     {
       "id": "16",
-      "name": "MUGALRAJ PARSTE",
-      "father": "GOVIND SINGH PARSTE",
+      "name": "Mugalraj Parste",
+      "father": "Govind Singh",
       "class": "2-3",
       "dob": "13/8/2018",
       "contact": "8103287015",
       "address": "H.NO.-81, IDEAL CAMPUS",
-      "photo": "./2nd_16_Mugal Raj.txt",
+      "photo": "./2nd_16_Mugal Raj.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1395", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -402,8 +386,8 @@
     },
     {
       "id": "17",
-      "name": "MANSH NAMDEV",
-      "father": "SATISH KUMAR NAMDEV",
+      "name": "Mansh Namdev",
+      "father": "Satish Kumar",
       "class": "2-3",
       "dob": "20/6/2018",
       "contact": "7999166417",
@@ -411,14 +395,13 @@
       "photo": "./2nd_17_Mansh namdev.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1070", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -427,23 +410,22 @@
     },
     {
       "id": "18",
-      "name": "NANDKISHORE UDDE",
-      "father": "ANAND SINGH UDDE",
+      "name": "Nand Kishore",
+      "father": "Anand Singh",
       "class": "2-3",
       "dob": "30/3/2016",
       "contact": "8103287015",
       "address": "H.NO-81, IDEAL CAMPUS",
-      "photo": "./2nd_18_Nand Kishore.txt",
+      "photo": "./2nd_18_Nand Kishore.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1394", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -452,8 +434,8 @@
     },
     {
       "id": "19",
-      "name": "NAZIYA KHAN",
-      "father": "TAHIR KHAN",
+      "name": "Naziya Khan",
+      "father": "Tahir",
       "class": "2-3",
       "dob": "19/12/2017",
       "contact": "9685137039",
@@ -461,14 +443,13 @@
       "photo": "./2nd_19_Naziya Khan.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1065", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -477,23 +458,22 @@
     },
     {
       "id": "20",
-      "name": "NANDITA BAKORIYA",
-      "father": "JITENDRA BAKORIYA",
+      "name": "Nandita Bakoriya",
+      "father": "Jitendra",
       "class": "2-3",
-      "dob": "01-09-2018",
+      "dob": "09-01-2018",
       "contact": "8839655353",
       "address": "H.NO.-JS-7, INDUS TOWN",
       "photo": "./2nd_20_Nandita Bakoriya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/942", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -502,8 +482,8 @@
     },
     {
       "id": "21",
-      "name": "PURVI SEN",
-      "father": "KAMLESH SEN",
+      "name": "Purvi Sen",
+      "father": "Brijendra Sen",
       "class": "2-3",
       "dob": "20/2/2017",
       "contact": "9753605999",
@@ -511,14 +491,13 @@
       "photo": "./2nd_22_Purvi sen.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1157", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -527,8 +506,8 @@
     },
     {
       "id": "22",
-      "name": "RAJVEER RAJPUT",
-      "father": "RAJESH KUMAR RAJPUT",
+      "name": "Rajveer Rajput",
+      "father": "Rajesh Kumar",
       "class": "2-3",
       "dob": "13/9/2017",
       "contact": "9584981930",
@@ -536,14 +515,13 @@
       "photo": "./2nd_23_Rajiv Rajput.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1380", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -552,23 +530,22 @@
     },
     {
       "id": "23",
-      "name": "SANJANA RALIYA",
-      "father": "RAMESH KUMAR",
+      "name": "Sanjana Raliya",
+      "father": "Ramesh Kumar",
       "class": "2-3",
-      "dob": "02-10-2017",
+      "dob": "10-02-2017",
       "contact": "9713070824",
       "address": "H.NO.-RB-92, INDUS TOWN",
       "photo": "./2nd_24_Sanjana Raliya.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1080", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -577,8 +554,8 @@
     },
     {
       "id": "24",
-      "name": "SHOURYA PATEL",
-      "father": "SHEETARAM PATEL",
+      "name": "Shourya Patel",
+      "father": "Sheetaram",
       "class": "2-3",
       "dob": "13/9/2018",
       "contact": "8109872093",
@@ -586,14 +563,13 @@
       "photo": "./2nd_25_Shuorya patel.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1050", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -602,23 +578,22 @@
     },
     {
       "id": "25",
-      "name": "SOMYA RAIKWAR",
-      "father": "BRAJESH RAIKWAR",
+      "name": "Somya Raikwar",
+      "father": "Brajesh",
       "class": "2-3",
-      "dob": "01-03-2017",
+      "dob": "03-01-2017",
       "contact": "7000337897",
       "address": "H.NO.-PSDX-41, ANUJA VILLAGE",
       "photo": "./2nd_26_Somya Raikwar.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/997", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -627,8 +602,8 @@
     },
     {
       "id": "26",
-      "name": "SHREYA NISHAD",
-      "father": "SUNIL NISHAD",
+      "name": "Shreya Nishad",
+      "father": "Sunil",
       "class": "2-3",
       "dob": "21/8/2018",
       "contact": "9981665859",
@@ -636,14 +611,13 @@
       "photo": "./2nd_27_Sherya Nishad.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1168", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -652,8 +626,8 @@
     },
     {
       "id": "27",
-      "name": "SAKSHI NAGAL",
-      "father": "DHARMVEER NAGAL",
+      "name": "Sakshi Nagal",
+      "father": "Dharmbir",
       "class": "2-3",
       "dob": "08-09-2017",
       "contact": "8059274742",
@@ -661,14 +635,13 @@
       "photo": "./2nd_28_Sakshi Nagal.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1181", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -677,8 +650,8 @@
     },
     {
       "id": "28",
-      "name": "SIDDHARTH KEER",
-      "father": "SHIVRAJ KEER",
+      "name": "Siddharth Keer",
+      "father": "Shivraj Keer",
       "class": "2-3",
       "dob": "15/2/2018",
       "contact": "9685817040",
@@ -686,14 +659,13 @@
       "photo": "./2nd_29_Siddarth keer.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1084", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -702,8 +674,8 @@
     },
     {
       "id": "29",
-      "name": "TANISHKA SHRIVASTRI",
-      "father": "DEEPAK",
+      "name": "Tanishka Shrivastri",
+      "father": "Deepak",
       "class": "2-3",
       "dob": "21/9/2018",
       "contact": "9039327117",
@@ -711,14 +683,13 @@
       "photo": "./2nd_30_Tanishka Shrivastri.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1223", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -727,8 +698,8 @@
     },
     {
       "id": "30",
-      "name": "VAISHNAVI SHARMA",
-      "father": "RAVI SHARMA",
+      "name": "Vaishnavi Sharma",
+      "father": "Ravi Sharma",
       "class": "2-3",
       "dob": "15/7/2019",
       "contact": "8279426120",
@@ -736,14 +707,13 @@
       "photo": "./2nd_31_Vaishnavi Sharma.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1169", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -752,8 +722,8 @@
     },
     {
       "id": "31",
-      "name": "VIDHYA SINGH",
-      "father": "GAJENDRA SINGH",
+      "name": "Vidhya Singh",
+      "father": "Gajendra Singh",
       "class": "2-3",
       "dob": "19/9/2017",
       "contact": "8085491720",
@@ -761,40 +731,37 @@
       "photo": "./2nd_32_Vidhya Singh.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1335", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
         }
       }
     },
-
     {
       "id": "32",
-      "name": "VAISHNAVI SHARMA",
-      "father": "RAVI SHARMA",
+      "name": "Yuvan Manewarey",
+      "father": "Anurag",
       "class": "2-3",
-      "dob": "15/7/2019",
-      "contact": "8279426120",
-      "address": "H.NO.-EM-99, INDUS TOWN",
-      "photo": "./2nd_31_Vaishnavi Sharma.jpg",
+      "dob": "10-02-2018",
+      "contact": "9713121929",
+      "address": "H.NO.-9, INDUS TOWN",
+      "photo": "./2nd_33_Yuvan Manewarey.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/984", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -803,23 +770,22 @@
     },
     {
       "id": "33",
-      "name": "VIDHYA SINGH",
-      "father": "GAJENDRA SINGH",
+      "name": "Yuvraj Sharma",
+      "father": "Babulal",
       "class": "2-3",
-      "dob": "19/9/2017",
-      "contact": "8085491720",
-      "address": "H.NO.-6/10, ANUJA VILLAGE",
-      "photo": "./2nd_32_Vidhya Singh.jpg",
+      "dob": "02-11-2016",
+      "contact": "9302642150",
+      "address": "H.NO.-27, INDUS TOWN",
+      "photo": "./2nd_34_Yuvraj sharma.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1083", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -828,23 +794,22 @@
     },
     {
       "id": "34",
-      "name": "YUVAN MANWAREY",
-      "father": "ANURAG MANWAREY",
+      "name": "Yash Prajapati",
+      "father": "Suraj",
       "class": "2-3",
-      "dob": "02-10-2018",
-      "contact": "9713121929",
-      "address": "H.NO.-9, INDUS TOWN",
-      "photo": "./2nd_33_Yuvan Manewarey.jpg",
+      "dob": "20/3/2017",
+      "contact": "9481914279",
+      "address": "H.NO.-3D, INDUS TOWN",
+      "photo": "./2nd_35_Yash Prajapati.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1018", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -853,23 +818,22 @@
     },
     {
       "id": "35",
-      "name": "YUVRAJ SHARMA",
-      "father": "BABULAL SHARMA",
+      "name": "Yuvraj Choudhary",
+      "father": "Mukesh Kumar",
       "class": "2-3",
-      "dob": "11-02-2016",
-      "contact": "9302642150",
-      "address": "H.NO.-27, INDUS TOWN",
-      "photo": "./2nd_34_Yuvraj sharma.jpg",
+      "dob": "20/4/2017",
+      "contact": "6266708541",
+      "address": "H.NO.- SAI KRAPA, INDUS TOWN",
+      "photo": "./2nd_36_Yuvraj Choudhary.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1424", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"
@@ -878,48 +842,22 @@
     },
     {
       "id": "36",
-      "name": "YASH PRAJAPATI",
-      "father": "SURAJ PRAJAPATI",
+      "name": "Deepak Jatav",
+      "father": "Sonu",
       "class": "2-3",
-      "dob": "20/3/2017",
-      "contact": "7354838960",
-      "address": "H.NO.-3D, INDUS TOWN",
-      "photo": "./2nd_35_Yash Prajapati.jpg",
+      "dob": "27/8/2017",
+      "contact": "6260862665",
+      "address": "GURADI",
+      "photo": "./2nd_37_Deepak jatav.jpg",
       "school": {
         "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
         "session": "2025-2027",
         "logo": "/img/logo-indus-town.png",
         "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
-        "contact": {
-          "phone": "9039677482",
-          "email": "samuel.james36@gmail.com"
-        }
-      }
-    },
-    {
-      "id": "37",
-      "name": "YUVRAJ CHOUDHARY",
-      "father": "MUKESH KUMAR CHOUDHARY",
-      "class": "2-3",
-      "dob": "20/4/2017",
-      "contact": "6266708541",
-      "address": "H.NO.- SAI KRAPA, INDUS TOWN",
-      "photo": "./2nd_36_Yuvraj Choudhary.jpg",
-      "school": {
-        "name": "Bethany Convent School",
-        "address": "Indus Town, Bhopal, Madhya Pradesh,462047, MP,Ph-9039677482",
-        "session": "2025-2027",
-        "logo": "/img/logo-indus-town.png",
-        "building": "/img/school.jpg",
-        "codes": {
-          "Scholar": "136",
-          "udise": "23320214508"
-        },
+        "codes": { "Scholar": "BCS/1473", "udise": "23320214508" },
         "contact": {
           "phone": "9039677482",
           "email": "samuel.james36@gmail.com"

@@ -1,0 +1,453 @@
+
+        {
+  "students": [
+    {
+      "id": "1",
+      "name": "AMAYRA LOVANSHI",
+      "father": "SHEKHAR LOVANSHI",
+      "class": "2-3",
+      "dob": "15-05-2018",
+      "contact": "9981950002",
+      "address": "Hanuman , Colony,Mandideep",
+      "photo": "./2nd_01_Amayra Lavanshi.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/486",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "DEVANSH NAGAR",
+      "father": "SATISH NAGAR",
+      "class": "2-3",
+      "dob": "06-07-2018",
+      "contact": "9171779355",
+      "address": "Sheetal City,Mandideep",
+      "photo": "./2nd_02_Devansh Nagar.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/685",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "name": "DAMINI CHOURASIYA",
+      "father": "AMIT CHOURASIYA",
+      "class": "2-3",
+      "dob": "05-10-2017",
+      "contact": "8878712425",
+      "address": "H.NO. 248,SHEETAL DEEP ",
+      "photo": "./2nd_03_Damini Chourasiya.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/784",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "JIYA KUSHWAHA",
+      "father": "KESHAV KUSHWAHA",
+      "class": "2-3",
+      "dob": "23-11-2017",
+      "contact": "6266496291/8827570507",
+      "address": "MADHUVAN NAGRI",
+      "photo": "./2nd_04_Jiya Kushwaha.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/611",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "name": "KAVYA PARMAR",
+      "father": "JEEVAN PARMAR",
+      "class": "2-3",
+      "dob": "11-10-2017",
+      "contact": "9589236653",
+      "address": "Phase-2,Sheetal City",
+      "photo": "./2nd_05_Kavya Parmar.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/569",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "name": "MAYANK AHIRWAR",
+      "father": "VINOD AHIRWAR",
+      "class": "2-3",
+      "dob": "20-12-2016",
+      "contact": "9039405022/8120063873",
+      "address": "H.No.228,Lotus Park",
+      "photo": "./2nd_06_Mayank Ahirwar.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/563",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "name": "MAYURI PAWAR",
+      "father": "HARISHCHANDRA",
+      "class": "2-3",
+      "dob": "13-08-2018",
+      "contact": "8839360970/9755417178",
+      "address": "H.NO.04 BINDIYA COLONY",
+      "photo": "./2nd_07_Mayuri Pawar.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/600",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "8",
+      "name": "NAINSI PRAJAPATI",
+      "father": "LALARAM ",
+      "class": "2-3",
+      "dob": "30-11-2016",
+      "contact": "8269214084/9399425371",
+      "address": "Vedanta Colony,Mandideep",
+      "photo": "./2nd_08_Nainsi Prajapati.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/592",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "9",
+      "name": "PARI VISHWAKARMA",
+      "father": "SANJAY",
+      "class": "2-3",
+      "dob": "02-07-2017",
+      "contact": "7770913411",
+      "address": "RAM NAGAR, MANDIDEEP",
+      "photo": "./2nd_09_Pari Vishwakarma.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/532",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "name": "PUNEET LODHI",
+      "father": "DALCHAND LODHI",
+      "class": "2-3",
+      "dob": "10-09-2018",
+      "contact": "9630664418",
+      "address": "H.No. 279, Sheetal colony ",
+      "photo": "./2nd_10_Puneet Lodhi.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/566",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "name": "SHIVANGI YADAV",
+      "father": "PRADEEP YADAV",
+      "class": "2-3",
+      "dob": "27-01-2017",
+      "contact": "8982851013",
+      "address": "H.No.253,Madhuvan Nagri",
+      "photo": "./2nd_11_Shivangi Yadav.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/515",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "name": "SHIVAY RAJPUT",
+      "father": "SATYPAL RAJPUT",
+      "class": "2-3",
+      "dob": "21-05-2018",
+      "contact": "6268938012",
+      "address": "Gajju Pipliya Road, Mandideep",
+      "photo": "./2nd_12_Shivay Rajput.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/786",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "13",
+      "name": "URMI VISHWAKARMA",
+      "father": "DAMODAR ",
+      "class": "2-3",
+      "dob": "30-12-2017",
+      "contact": "8962937747/8516961086",
+      "address": "Gajju Pipliya Road, Mandideep",
+      "photo": "./2nd_13_Urmi Vishwakarma.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/525",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "14",
+      "name": "VIDUR MEENA",
+      "father": "ANIL MEENA",
+      "class": "2-3",
+      "dob": "18-03-2018",
+      "contact": "9630926744",
+      "address": "Gajju Pipliya,Mandideep",
+      "photo": "./2nd_14_Vidur Meena.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/601",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "name": "VIVEK GOUR",
+      "father": "VINOD GOUR",
+      "class": "2-3",
+      "dob": "29-03-2018",
+      "contact": "9893313264",
+      "address": "SHEETAL TOWN, MANDIDEEP",
+      "photo": "./2nd_15_Vivek Gour.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/596",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    },
+    {
+      "id": "16",
+      "name": "AKSH DHAKAD",
+      "father": "DEVI SINGH DHAKAD",
+      "class": "2-3",
+      "dob": "07-10-2017",
+      "contact": "9302215456",
+      "address": "Sheetal Deep colony Mandideep",
+      "photo": "./2nd_16_Aksh Dhakad.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+             "address": " Sheetal City, Mandideep, MP-462046",
+        "addre": "   ph-9039677482",
+        "addres": "Madhuvan Nagri, Gajju Pipliya, Mandideep",
+        
+        "session": "2025-2027",
+        "logo": "/img/logo-indus-town.png",
+        "building": "/img/school.jpg",
+        "codes": {
+          "Scholar": "BCS/797",
+          "udise": "23340415964"
+        },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    }
+  ]
+}
